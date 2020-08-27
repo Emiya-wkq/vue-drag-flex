@@ -52,3 +52,5 @@ drag-layout-item
 | dl-height  | -- | String | 初始高度 |
 | min-width  | -- | Number | 最小宽度，建议最小设为50；此单位为px |
 | min-height  | -- | Number | 最小高度，建议最小设为50；此单位为px |
+
+drag-layout-item与drag-layout可互相嵌套，形成类似表格的布局
