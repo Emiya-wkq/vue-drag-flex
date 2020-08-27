@@ -1,7 +1,7 @@
 {
   "name": "vue-drag-flex",
   "description": "基于flex的可拖拽控制布局，类表格",
-  "version": "1.0.08",
+  "version": "1.1.1",
   "author": "wangkaiqiang001 <1426422145@qq.com>",
   "license": "MIT",
   "private": false,

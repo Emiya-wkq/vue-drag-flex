@@ -53,4 +53,10 @@ drag-layout-item
 | min-width  | -- | Number | 最小宽度，建议最小设为50；此单位为px |
 | min-height  | -- | Number | 最小高度，建议最小设为50；此单位为px |
 
+slot
+
+|  名称   | 描述  |
+|  ----  | ----  | 
+| slider  | 可通过插槽自定义slider样式，如不设置，则使用默认样式 | 
+
 drag-layout-item与drag-layout可互相嵌套，形成类似表格的布局
